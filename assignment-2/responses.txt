@@ -5,4 +5,4 @@
 
   A cookie is a piece of information about your identification that websites can remember, essentially an ID card.
 
-  The three basic parts of a URL are domain name, protocol, and path.
+  The three basic parts of a URL are domain name, protocol, and path
