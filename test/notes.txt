@@ -1,1 +1,4 @@
 An area for class notes:
+
+
+My [course notes](./notes.txt)
