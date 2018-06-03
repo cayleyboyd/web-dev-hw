@@ -5,6 +5,6 @@ A version control system is a type of workspace that records various changes to 
 My [Responses](./responses.txt)
 
 # My Work Cycle
-On this project I had somewhat of a difficult time. I went through creating the original test repo, and it was slow going but ok, and then on the actual repo things just kept not working. The formatting was messed up in github, and when I thought I fixed it the problem reappeared with my responses page. I'm still not entirely sure what went wrong, and I'm not sure if it will come up in my repo, so I would probably like to work on that more. I might need a bit of a hand too. 
+On this project I had somewhat of a difficult time. I went through creating the original test repo, and it was slow going but ok, and then on the actual repo things just kept not working. The formatting was messed up in github, and when I thought I fixed it the problem reappeared with my responses page. I'm still not entirely sure what went wrong, and I'm not sure if it will come up in my repo, so I would probably like to work on that more. I might need a bit of a hand too.
 
-![Image of My Project](./images/screenshot2.png)
+![Image of My Project for Assignment 2](./images/screenshot2.png)
