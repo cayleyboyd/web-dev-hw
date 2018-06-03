@@ -2,7 +2,7 @@
 
 ## Some Browsers I Use:
 
-<a href="https://www.google.com/chrome/">Goocle Chrome</a><br />
+<a href="https://www.google.com/chrome/">Google Chrome</a><br />
 <a href="https://www.mozilla.org/en-US/firefox/">Mozilla Firefox</a><br />
 
 Browsers work by recieving web data from servers and interpreting the Javascript so that it can be clearly translated onto a user's computer.
