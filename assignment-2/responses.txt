@@ -1,4 +1,4 @@
-# Responses
+#Responses
 One way data travels is through radio waves. This is what we know as wifi, and is easy to access but can experience issues with signal strength.
 An IP address is a number assigned to computers and serves that can identify it. The DNS translates that number into websites that we then access.
 A cookie is a piece of information about your identification that websites can remember, essentially an ID card.
