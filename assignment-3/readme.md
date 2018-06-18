@@ -9,4 +9,4 @@ and the body contains everything else. They connect to create the full page with
 <ul><li> For this work cycle, I had pnumonia for two weeks so I was kind of laying low. I got back in it though and I really got back in the groove with this class over the past two days. I like HTML a lot, so this was pretty fun for me.</li></ul><br>
 
 <li>Embed a screenshot of your workspace at some point during your development cycle.</li>
-<img src="./images/screenshot4">
+<img src="./images/screenshot4.png">
