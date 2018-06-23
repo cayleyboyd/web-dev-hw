@@ -1,28 +1,45 @@
-/* Everything between the forward-slash-star pair is a comment. */
+/* CSS stylesheet */
 body {
-   /* Targets EVERY element in the body. */
-   font-family: Arial;
-   background-color: #F1F1F1;
-}
-
+   /* Body - 70's themed. */
+   font-family: monospace;
+   background-color: goldenrod;
+  }
 h1 {
-   /* Targets ONLY the first paragraph after ANY heading 2. */
-   border: 2px solid teal;
-}
-* {
-      font-family: Arial;
-      background-color: #f1f1f1;
-   }
-   .body {
-           background-color: Goldenrod
+      color: steelblue;
+      font-size: 45px;
+    }
+h2 {
+      color: olivedrab;
+      font-size: 30px;
+  }
+b {
+     background-color: #173E4E;
+    }
+i {
+    background-color: #173E4E;
+      }
+.intro {
+   color: black;
+  background-color: #173E4E;
+  font-size: 30px;
+  padding: 5%;
+    }
+  .main-container {
+     background-color: #173E4E;
+     padding: 5%;
+     opacity: 0.85;
+  }
+.ideas {
+       color: black;
+       font-size: 70px;
+       opacity: 0.75;
+       position: absolute;
+    }
+  p i {
 
-         }
-         .behind-text {
-            background-color: black;
-         }
-         .padded {
-            background-color: black;
-            padding: 5px;
-         }
-       h1 {color: Indianred}
-       h2 {color: white}
+     text-decoration: underline;
+  }
+  p b {
+
+     text-decoration: underline;
+  }
