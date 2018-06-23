@@ -1,4 +1,4 @@
-<h1>Read Me - Project 2/h1>
+<h1>Read Me - Project 2</h1>
 
 <ol><li>Briefly recap your experience learning HTML. What was old, new, interesting, or difficult to learn?</li><br>
   <ul>
