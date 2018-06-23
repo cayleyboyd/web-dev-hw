@@ -1,0 +1,28 @@
+/* Everything between the forward-slash-star pair is a comment. */
+body {
+   /* Targets EVERY element in the body. */
+   font-family: Arial;
+   background-color: #F1F1F1;
+}
+
+h1 {
+   /* Targets ONLY the first paragraph after ANY heading 2. */
+   border: 2px solid teal;
+}
+* {
+      font-family: Arial;
+      background-color: #f1f1f1;
+   }
+   .body {
+           background-color: Goldenrod
+
+         }
+         .behind-text {
+            background-color: black;
+         }
+         .padded {
+            background-color: black;
+            padding: 5px;
+         }
+       h1 {color: Indianred}
+       h2 {color: white}
