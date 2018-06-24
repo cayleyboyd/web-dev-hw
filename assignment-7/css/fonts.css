@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Cardo');
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=UnifrakturMaguntia');
+@font-face {
+   font-family: 'Cinzel''Georgia';
+   src: url('../fonts/Cinzel.zip') format('opentype');
+ }
+ @font-face {
+   font-family: 'Cardo''Palatino Linotype';
+ src: url('../fonts/Cardo.zip') format('opentype');
+}
+@font-face {
+  font-family: 'UnifrakturMaguntia''Arial Black';
+src: url('../fonts/UnifrakturMaguntia.zip') format('opentype');
+}
