@@ -6,7 +6,7 @@
 
 <li>What is the difference between a system font, web font, and web-safe font? What is the importance of having fallback fonts or a font stack?</li><br>
   <ul>
-  <li>System fonts are already installed onmy system, available to me but not necessarily the web. Web fonts are hosted on a server and they are made custom for websites. Web safe fonts are shared by both Apple and PC so they can be counted on as available. Fallback fonts are important so that your computer can load the text if the primary font doesn't work for some reason. </li></ul><br>
+  <li>System fonts are already installed on my system, available to me but not necessarily the web. Web fonts are hosted on a server and they are made custom for websites. Web safe fonts are shared by both Apple and PC so they can be counted on as available. Fallback fonts are important so that your computer can load the text if the primary font doesn't work for some reason. </li></ul><br>
 
 <li>Summarize your work cycle for this assignment. Review this page if you need some ideas.</li><br>
   <ul>
