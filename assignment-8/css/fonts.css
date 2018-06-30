@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+@font-face {
+   font-family: 'Poiret_One''Georgia';
+   src: url('../fonts/Poiret_One.zip') format('opentype');
+ }
+ @font-face {
+    font-family: 'Barlow_Semi_Condensed''Georgia';
+    src: url('../fonts/Barlow_Semi_Condensed.zip') format('opentype');
+  }
